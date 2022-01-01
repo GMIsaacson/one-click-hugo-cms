@@ -3,7 +3,7 @@ title: Kenyan Coffee
 date: 2022-01-01T21:58:13.154Z
 description: Very smooth coffee with a tangy bitter and sour hint.You want
   strong brew to keep awake all day, you got in with this coffee berries.
-image: img/about-single-origin.jpg
+image: img/about-reinvest-profits.jpg
 ---
 Great Coffee hands down
 
